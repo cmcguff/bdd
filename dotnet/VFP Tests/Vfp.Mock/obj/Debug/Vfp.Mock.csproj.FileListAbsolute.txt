@@ -1,0 +1,5 @@
+c:\users\craig.mcguff\documents\visual studio 2012\Projects\VFP Tests\Vfp.Mock\bin\Debug\Vfp.Mock.dll
+c:\users\craig.mcguff\documents\visual studio 2012\Projects\VFP Tests\Vfp.Mock\bin\Debug\Vfp.Mock.pdb
+c:\users\craig.mcguff\documents\visual studio 2012\Projects\VFP Tests\Vfp.Mock\obj\Debug\Vfp.Mock.csprojResolveAssemblyReference.cache
+c:\users\craig.mcguff\documents\visual studio 2012\Projects\VFP Tests\Vfp.Mock\obj\Debug\Vfp.Mock.dll
+c:\users\craig.mcguff\documents\visual studio 2012\Projects\VFP Tests\Vfp.Mock\obj\Debug\Vfp.Mock.pdb
