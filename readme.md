@@ -28,3 +28,19 @@ The behaviour class has been marked as a COM class, internally to our VFP apps w
 A simple mock object has been constructed to wrap the basic form details, we can pass in this mock form to the VFP behaviour class and effectively exercise VFP behaviour using a .NET construct.
 
 The examples include a test project using nUnit specifically and also a SpecFlow example.
+
+Getting Started
+
+- Grab the code
+    
+````
+git clone https://github.com/cmcguff/bdd.git		
+```
+
+- Build the VFP project as a single=thread DLL and register the dll (should happen by default, make sure you are running VFP as Administrator)
+
+```
+build dll vfp_automation.dll from vfp_automation.pjx
+```
+
+- Run the tests from .NET
